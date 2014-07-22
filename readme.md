@@ -1,6 +1,8 @@
-# hdd-surface
-
+hdd-surface
+=====
 Convert printable media ( pdf, jpg, eps … ) into surface.
+
+![](https://i.vimeocdn.com/video/472992035_960.jpg)
 
 usage 
 
